@@ -1,18 +1,62 @@
 # DSA with C++
 
-Structured practice of Data Structures and Algorithms using C++.
+This repository contains structured and interview-focused implementations of **Data Structures and Algorithms** using **C++**.
 
-## Topics Covered
-- Arrays
-- Vectors
-- Strings
+The goal of this repository is to build strong DSA fundamentals with clean code, proper organization, and clear logic suitable for technical interviews.
+
+---
+
+## 📌 Language Used
+- C++
+
+---
+
+## 📂 Repository Structure
+```
+DSA-with-CPP/
+│
+├── Arrays/
+│   ├── TwoSum.cpp
+│   └── MergeIntervals.cpp
+│
+├── Sorting/
+│   ├── BubbleSort.cpp
+│   ├── SelectionSort.cpp
+│   ├── InsertionSort.cpp
+│
+├── README.md
+└── .gitignore
+```
+---
+
+## 📘 Topics Covered
+
+### Arrays
+- Two Sum
+- Merge Intervals
+
+### Sorting Algorithms
+- Bubble Sort
+- Selection Sort
+- Insertion Sort  
+(More algorithms will be added)
+
+---
+
+## 🎯 Key Highlights
+- Clean and readable C++ code
+- Interview-oriented implementations
+- Topic-wise folder structure
+- Time and space complexity considered
+
+---
+
+## 🚀 Upcoming Topics
+- Merge Sort
+- Quick Sort
+- Cyclic Sort
+- Linked List
+- Stack & Queue
 - Recursion
-- Sorting
-
-## Approach
-- Clean C++ implementations
-- Focus on logic and problem solving
-- Gradual topic-wise progress
-
-## Goal
-To prepare for internships and product-based company interviews.
+- Binary Search
+- Trees and Graphs
