@@ -23,6 +23,7 @@ DSA-with-CPP/
 │   ├── BubbleSort.cpp
 │   ├── SelectionSort.cpp
 │   ├── InsertionSort.cpp
+│   ├── MergeSort.cpp
 │
 ├── README.md
 └── .gitignore
@@ -52,7 +53,6 @@ DSA-with-CPP/
 ---
 
 ## 🚀 Upcoming Topics
-- Merge Sort
 - Quick Sort
 - Cyclic Sort
 - Linked List
