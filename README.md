@@ -12,7 +12,7 @@ The goal of this repository is to build strong DSA fundamentals with clean code,
 ---
 
 ## 📂 Repository Structure
-DSA-with-CPP/
+```DSA-with-CPP/
 │
 ├── Arrays/
 │ ├── TwoSum.cpp
@@ -28,7 +28,8 @@ DSA-with-CPP/
 │
 ├── README.md
 └── .gitignore
----
+
+```
 
 ## 📘 Topics Covered
 
